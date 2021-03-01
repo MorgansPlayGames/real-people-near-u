@@ -1,5 +1,4 @@
 import axios from "axios";
-import logo from './logo.svg';
 import Card from './components/Card.js';
 import Jumbotron from './components/Jumbotron.js';
 import './App.css';

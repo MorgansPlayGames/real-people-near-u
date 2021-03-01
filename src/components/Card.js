@@ -23,7 +23,7 @@ console.log(props)
 
         </div>
 
-        <img src={props.person.picture.large} className="col img-fluid" />
+        <img src={props.person.picture.large} className="col img-fluid" alt="Love person near you" />
       </div>
       <div>
         <p className="card-text row p-2">login: {props.person.login.username}</p>
