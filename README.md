@@ -5,7 +5,7 @@ There are really real people near you, here is a list of them brought to you by 
 
 [Link to repository](https://github.com/MorgansPlayGames/real-people-near-u)
 
-[Live Website](https://parkers-googlebooks.herokuapp.com/)
+[Live Website](https://real-people-near-u.herokuapp.com/)
 
 ![Love finder pic](./public/love-finder.png)
 
